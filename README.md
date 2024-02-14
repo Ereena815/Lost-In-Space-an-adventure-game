@@ -8,7 +8,7 @@ planet, with limited fuel. This way there is the trade off between reading the g
 score.
 
 # Tech Stack
-C++, Splashkit
+C, C++, Splashkit
 
 # Game Demo
 https://youtu.be/UXdBWTMSozY
