@@ -7,5 +7,8 @@ getting power-ups, etc. There is also a time limit where they are aiming to find
 planet, with limited fuel. This way there is the trade off between reading the goal and improving your
 score.
 
+# Tech Stack
+C++, Splashkit
+
 # Game Demo
 https://youtu.be/UXdBWTMSozY
